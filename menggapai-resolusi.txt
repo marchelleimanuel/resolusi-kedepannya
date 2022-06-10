@@ -1,6 +1,7 @@
 Cara : 
 - Belajar HTML dan CSS
 - Belajar javascript fundamental 
+  * perdalam function, array, object
 - Bikin project sendiri
   * e-commerce
 - Belajar framework
@@ -9,3 +10,4 @@ Cara :
   * upwork.com
 - Magang
 - kerja
+- belajar python
