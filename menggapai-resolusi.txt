@@ -2,7 +2,10 @@ Cara :
 - Belajar HTML dan CSS
 - Belajar javascript fundamental 
 - Bikin project sendiri
+  * e-commerce
 - Belajar framework
 - Coba freelance
+  * fiverr.com
+  * upwork.com
 - Magang
 - kerja
