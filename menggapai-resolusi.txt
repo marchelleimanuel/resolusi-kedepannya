@@ -3,8 +3,11 @@ Cara :
 - Belajar javascript fundamental 
   * perdalam function, array, object
 - Bikin project sendiri
-  * machine learning
+  * e-commerce
 - Belajar framework
 - Coba freelance
+  * fiverr.com
+  * upwork.com
+- Magang
 - kerja
 - belajar python
