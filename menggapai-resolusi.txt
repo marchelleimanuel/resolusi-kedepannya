@@ -2,4 +2,6 @@ Cara :
 - Belajar HTML dan CSS
 - Belajar javascript fundamental 
 - Bikin project sendiri
-- Belajar framework, dll.
+- Belajar framework
+- Coba freelance
+- Magang
